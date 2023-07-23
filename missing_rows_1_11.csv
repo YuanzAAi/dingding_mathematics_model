@@ -1,0 +1,3 @@
+user_id,app_id,app_type,start_day,start_time,end_day,end_time,duration,up_flow,down_flow
+AD349EAB9D408A04F28C329232A10109,2859,sys,10,,10,,19,0,0
+AD349EAB9D408A04F28C329232A10109,11088,sys,10,,10,,8,0,0
